@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Android-Basic-Hello-World</string>
+    <string name="app_name">First Android App 2021</string>
+    <string name="birthday_message">Happy Birthday Pepai</string>
+    <string name="from_message">From Pepa Pig</string>
+    <string name="bday_selfi_desc">birthday selfi 2021</string>
 </resources>
